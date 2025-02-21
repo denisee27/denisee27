@@ -24,4 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 </div>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denisee27/denisee27/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denisee27/denisee27/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/denisee27/denisee27/output/github-snake.svg" />
+</picture>
 ###
